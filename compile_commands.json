@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/nephilim/Playground/To-Do-App/Targets/Debug",
+  "command": "/usr/bin/c++  -I/home/nephilim/Playground/To-Do-App/include -g -std=gnu++17 -o CMakeFiles/To-Do-App.dir/src/Console.cpp.o -c /home/nephilim/Playground/To-Do-App/src/Console.cpp",
+  "file": "/home/nephilim/Playground/To-Do-App/src/Console.cpp",
+  "output": "CMakeFiles/To-Do-App.dir/src/Console.cpp.o"
+},
+{
+  "directory": "/home/nephilim/Playground/To-Do-App/Targets/Debug",
+  "command": "/usr/bin/c++  -I/home/nephilim/Playground/To-Do-App/include -g -std=gnu++17 -o CMakeFiles/To-Do-App.dir/src/main.cpp.o -c /home/nephilim/Playground/To-Do-App/src/main.cpp",
+  "file": "/home/nephilim/Playground/To-Do-App/src/main.cpp",
+  "output": "CMakeFiles/To-Do-App.dir/src/main.cpp.o"
+}
+]
